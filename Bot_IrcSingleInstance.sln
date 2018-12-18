@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOT_IRC_SINGLE_INSTANCE", "BOT_IRC_SINGLE_INSTANCE\BOT_IRC_SINGLE_INSTANCE.csproj", "{1312F618-0712-4AF6-9541-8EA46C2DFDB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1312F618-0712-4AF6-9541-8EA46C2DFDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1312F618-0712-4AF6-9541-8EA46C2DFDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1312F618-0712-4AF6-9541-8EA46C2DFDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1312F618-0712-4AF6-9541-8EA46C2DFDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD97838-A357-44D3-9901-5C527F1CDF83}
+	EndGlobalSection
+EndGlobal
